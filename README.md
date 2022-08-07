@@ -1,5 +1,5 @@
 # Data Science Project
-Few project that i already done by implementing machine learning or deep learning
+Few project that i already done by implementing machine learning or deep learning. Mostly of the project is for my Research Paper.
 ### 1. Forecasting data donasi Mizan Amanah
 This project was about forecasting the donation and zakat data. The data source from Mizan Amanah Donation. The purpose of the project is to forecast daily donation.
 ### 2. Forecasting Gudang Garam Stocks Using
